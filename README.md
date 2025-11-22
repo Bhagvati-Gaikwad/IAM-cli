@@ -30,7 +30,10 @@ This proves **least privilege** in action.
 ---
 
 ## 📸 Screenshots
-
+<img width="2880" height="1505" alt="image" src="https://github.com/user-attachments/assets/fe9d855b-b3e9-4d45-86e7-86c7971a9f02" />
+<img width="2880" height="1505" alt="image" src="https://github.com/user-attachments/assets/52a28587-1d56-4f0a-bd8b-343c75612a21" />
+<img width="2880" height="1470" alt="image" src="https://github.com/user-attachments/assets/614aa3ea-ae69-4a6d-9ecd-b334e6a9171e" />
+<img width="2880" height="1474" alt="cli" src="https://github.com/user-attachments/assets/a922d7dd-8248-4c5a-a11f-0ac8cd753f83" />
 
 ---
 

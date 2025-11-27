@@ -58,4 +58,5 @@ This practical demonstrates real-world IAM use:
 - Preventing unauthorized modifications
 - Understanding IAM policy behavior
 
+<img width="1897" height="818" alt="diagram-export-27-11-2025-22_14_35" src="https://github.com/user-attachments/assets/a31c2d85-886d-4d01-a30b-c06a6e20376f" />
 
